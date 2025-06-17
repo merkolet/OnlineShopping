@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6/PQBh5BrQM+NOi7CFfAwdGb6U/QkTkgZlMtwHDT+LQ=",
+  "Source": "OrdersService",
+  "BasePath": "_content/OrdersService",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "dgSpecHash": "h+L2B8S4IG0=",
+  "success": true,
+  "projectFilePath": "/Users/sergey/RiderProjects/OnlineShopping/ApiGateway/ApiGateway.csproj",
+  "expectedPackageFiles": [
+    "/Users/sergey/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/sergey/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/sergey/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/sergey/.nuget/packages/swashbuckle.aspnetcore.annotations/6.5.0/swashbuckle.aspnetcore.annotations.6.5.0.nupkg.sha512",
+    "/Users/sergey/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/sergey/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/sergey/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/Users/sergey/.nuget/packages/system.io.hashing/7.0.0/system.io.hashing.7.0.0.nupkg.sha512",
+    "/Users/sergey/.nuget/packages/yarp.reverseproxy/2.0.0/yarp.reverseproxy.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "ApiGateway depends on Yarp.ReverseProxy (>= 1.2.4) but Yarp.ReverseProxy 1.2.4 was not found. An approximate best match of Yarp.ReverseProxy 2.0.0 was resolved.",
+      "libraryId": "Yarp.ReverseProxy",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Yarp.ReverseProxy' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-jrjw-qgr2-wfcg",
+      "libraryId": "Yarp.ReverseProxy",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

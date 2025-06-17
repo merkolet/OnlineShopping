@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OrdersService</name>
+    </assembly>
+    <members>
+        <member name="T:OrdersService.Migrations.InitialCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:OrdersService.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:OrdersService.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:OrdersService.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:OrdersService.Migrations.AddDescriptionToOrder">
+            <inheritdoc />
+        </member>
+        <member name="M:OrdersService.Migrations.AddDescriptionToOrder.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:OrdersService.Migrations.AddDescriptionToOrder.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:OrdersService.Migrations.AddDescriptionToOrder.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:OrdersService.Migrations.RemoveOrderDateAndProductIdsFromOrder">
+            <inheritdoc />
+        </member>
+        <member name="M:OrdersService.Migrations.RemoveOrderDateAndProductIdsFromOrder.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:OrdersService.Migrations.RemoveOrderDateAndProductIdsFromOrder.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:OrdersService.Migrations.RemoveOrderDateAndProductIdsFromOrder.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:OrdersService.Migrations.RenameOrderColumns">
+            <inheritdoc />
+        </member>
+        <member name="M:OrdersService.Migrations.RenameOrderColumns.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:OrdersService.Migrations.RenameOrderColumns.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:OrdersService.Migrations.RenameOrderColumns.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
